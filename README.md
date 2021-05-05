@@ -24,8 +24,6 @@ a date for each todo item. Show off your design skill to make it easy and intuit
 your application. Make sure that you write all test cases to cover the entire functionalities.
 
 ## Evaluation Factors
-The most importance judging factors is on top. 
-
 1. All requirements as described above are satisfied
 1. Fully understood your code, you will need to present it if got selected
 1. Free of ESLint errors and Google Chrome (or Firefox) Devtool errors / warnings
